@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd4bf86-65ad-4f95-9373-c5420d96639a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ArrayDeque/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayDeque/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a2f740cc-1117-4113-ab54-329cbbf79b11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="329">
+              <caret line="79" column="32" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -47,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -57,30 +56,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Stack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Stack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Stack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jshen" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="RunDashboard">
@@ -98,7 +76,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="Stack" />
+      <module name="String" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -117,16 +95,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4bd4bf86-65ad-4f95-9373-c5420d96639a" name="Default Changelist" comment="" />
-      <created>1599789501994</created>
+      <changelist id="a2f740cc-1117-4113-ab54-329cbbf79b11" name="Default Changelist" comment="" />
+      <created>1599837281355</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599789501994</updated>
+      <updated>1599837281355</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -134,7 +112,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15522175" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1602289" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -142,7 +120,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -160,8 +138,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="329">
+          <caret line="79" column="32" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
         </state>
       </provider>
     </entry>
