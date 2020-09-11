@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b62f6509-8b31-418f-829b-f72ecdf33f4c" name="Default Changelist" comment="" />
+    <list default="true" id="b62f6509-8b31-418f-829b-f72ecdf33f4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ArrayDeque/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayDeque/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,8 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
