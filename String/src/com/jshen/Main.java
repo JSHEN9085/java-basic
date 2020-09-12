@@ -83,5 +83,67 @@ public class Main {
         System.out.println(after_replace);
 
 
+
+//--------------------------------------------------------------------------------------------
+//StringBuilder: in Java represents a mutable sequence of characters. Since the String Class in Java creates an immutable sequence of characters,
+//the StringBuilder class provides an alternative to String Class, as it creates a mutable sequence of characters.
+//Where possible, it is recommended that this class be used in preference to StringBuffer as it will be faster under most implementations
+
+        StringBuilder builder = new StringBuilder("B"); //Constructs a string builder with no characters in it and an initial capacity of 16 characters.
+
+        //append(): adding char, **no add() method**
+        builder.append("u");
+
+        //capacity()
+        //length()
+        System.out.println("capacity count " + builder.capacity());
+        System.out.println("character count " + builder.length());
+
+        //charAt()
+        System.out.println(builder.charAt(0));
+
+
+        //indexOf(): index of the first occurrence
+        //lastIndexOf(): index of the last occurrence
+
+
+        //delete(int start, int end), end index is exclusive, if want to delete all, need to put length there
+        //deleteCharAt(int index): delete specific char
+        builder.delete(0, 2);
+        System.out.println("after deleted " + builder); //not should be empty
+
+
+        //insert(int index, String s), insert before the index!!!
+        //insert(int offset, boolean b):  method inserts the string representation of the boolean argument into this sequence.The offset argument must be greater than or equal to 0, and less than or equal to the length of this sequence. only insert boolean into a string
+        builder.append("B");
+        builder.append("i");
+        System.out.println("before insert " + builder);
+        builder.insert(1, "u");
+        System.out.println("after insert " + builder);
+
+
+        //setCharAt(int index, char char): can only replace one char at once, so must use single quote ''
+        builder.setCharAt(0, 'b');
+        System.out.println(builder);
+
+        //replace(int start, int end, String str)
+        builder.replace(0, 3, "Builder"); //same rule here, end index is exclusive
+        System.out.println(builder);
+
+        //reverse()
+
+        //setLength(): just keep the portion we want, but always start from beginning
+        //subSequence(int start, int end): This method returns a new character sequence that is a subsequence of this sequence.
+        //substring(): customize the portion we want, but doesn't change the input
+//        builder.setLength(1);
+        System.out.println(builder.substring(0, 2));
+
+        System.out.println(builder.subSequence(0, 2));
+        System.out.println(builder);
+
+
+
+
+
     }
 }

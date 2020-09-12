@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f740cc-1117-4113-ab54-329cbbf79b11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jshen/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="79" column="32" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+            <state relative-caret-position="315">
+              <caret line="140" column="39" selection-start-line="140" selection-start-column="39" selection-end-line="140" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -46,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -60,6 +60,9 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,8 +141,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="79" column="32" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+        <state relative-caret-position="315">
+          <caret line="140" column="39" selection-start-line="140" selection-start-column="39" selection-end-line="140" selection-end-column="39" />
         </state>
       </provider>
     </entry>
