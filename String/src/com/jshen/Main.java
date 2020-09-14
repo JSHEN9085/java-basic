@@ -94,7 +94,7 @@ public class Main {
         //append(): adding char, **no add() method**
         builder.append("u");
 
-        //capacity()
+        //capacity(): total allocated capacity
         //length()
         System.out.println("capacity count " + builder.capacity());
         System.out.println("character count " + builder.length());
