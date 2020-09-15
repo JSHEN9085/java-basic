@@ -4,7 +4,8 @@ import java.util.HashMap;
 
 public class Main {
 //It stores the data in (Key, Value) pairs, where Key is unique
-//It is not threads safe
+//It is not threads safe,
+//Hashtable is synchronized(Only one thread can own a monitor at a given time). It is thread-safe and can be shared with many threads.
 
     public static void main(String[] args) {
         HashMap<Integer, String> sample = new HashMap<>(); //Initial Capacity is default as 16
