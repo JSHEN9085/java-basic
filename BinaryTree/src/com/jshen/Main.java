@@ -7,6 +7,7 @@ public class Main {
         TreeNode right = new TreeNode(15);
         TreeNode root = new TreeNode(10, left, right);
 
+        TreeNode secondLevelFirst = new TreeNode(1);
 
 
     }
